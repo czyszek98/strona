@@ -1,0 +1,53 @@
+<!doctype html>
+
+<title>CodeMirror</title>
+<meta charset="utf-8"/>
+
+<script src="lib/codemirror.js"></script>
+<link rel="stylesheet" href="lib/codemirror.css">
+<script src="mode/xml/xml.js"></script>
+
+<style>
+  .CodeMirror { height: 300px; border: 1px solid #ddd; width:50%; float:left; }
+  .CodeMirror-scroll { max-height: 300px; }
+  .CodeMirror pre { padding-left: 7px; line-height: 1.25; }
+  #cos
+  {
+  float:left;
+  border:solid 1px black;
+  margin:1px;
+  width:49%;
+  height:300px;
+  }
+</style>
+
+<textarea  id=demotext>
+    var editor = CodeMirror.fromTextArea(document.getElementById("demotext"), {
+      lineNumbers: true,
+      mode: "javascript",
+      matchBrackets: true
+    });
+</textarea>
+<div id="cos">
+</div>
+<br>
+<button  onclick="rup()">Rup</button>
+
+
+  <script>
+    var editor = CodeMirror.fromTextArea(document.getElementById("demotext"), {
+      lineNumbers: true,
+      mode: "xml",
+      matchBrackets: true
+    });
+	function rup()
+	{
+		var b=document.getElementById("cos");
+		var linia = "";
+		for(var i=0;i<editor.lineCount();i++)
+		{
+			linia+=editor.getLine(i);
+		}
+		b.innerHTML=linia;
+	};
+  </script>

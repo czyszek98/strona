@@ -1,0 +1,20 @@
+[0308/215334.051:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0308/215334.051:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0308/215334.067:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0308/215334.114:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0308/220659.676:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0308/220659.676:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0308/220659.692:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0308/220659.738:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0309/155956.750:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0309/155956.766:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0309/155956.766:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0309/155956.969:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0309/160312.007:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0309/160312.007:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0309/160312.007:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0309/160312.069:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0310/154610.281:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0310/154610.286:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0310/154610.287:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0310/154610.345:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured

@@ -1,0 +1,16 @@
+[0308/213746.606:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0308/213746.606:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0308/213746.606:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0308/213746.800:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0308/213814.458:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0308/213814.458:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0308/213814.458:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0308/213814.505:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0310/154537.877:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0310/154537.884:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0310/154537.885:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0310/154538.111:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
+[0310/204959.661:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0310/204959.664:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0310/204959.665:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Odmowa dostêpu. (0x5)
+[0310/204959.843:ERROR:crashpad_client_win.cc(660)] crash server failed to launch, no dump captured
